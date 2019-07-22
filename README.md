@@ -2,9 +2,9 @@
 
 <center><img src="https://www.r-project.org/logo/Rlogo.png"></center>
 
-![R logo](https://www.r-project.org/logo/Rlogo.png =x100)
+![R logo](https://www.r-project.org/logo/Rlogo.png =100x)
 
-![UASD logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Escudo_UASD.jpg/800px-Escudo_UASD.jpg =x100)
+![UASD logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Escudo_UASD.jpg/800px-Escudo_UASD.jpg =100x)
 
 # Preguntas de investigación a intentar responder:
 
