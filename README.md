@@ -1,6 +1,6 @@
 # R-Hackathon de la Escuela de Ciencias Geográficas, UASD
 
-<center><img src="https://www.r-project.org/logo/Rlogo.png"></center>
+<center><img src="https://www.r-project.org/logo/Rlogo.png" height="100"></center>
 
 ![R logo](https://www.r-project.org/logo/Rlogo.png =100x)
 
