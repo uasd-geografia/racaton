@@ -30,3 +30,4 @@
   * ¿?
 * Welifer
   * ¿?
+* El tali, que lo borrará
