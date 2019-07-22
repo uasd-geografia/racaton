@@ -8,12 +8,12 @@
 # Preguntas de investigación a intentar responder:
 
 * Edwin
-  * 
+  * ¿?
 * Emma
-  * 
+  * ¿?
 * María
-  * 
+  * ¿?
 * Wandra
-  * 
+  * ¿?
 * Welifer
   * 
