@@ -25,12 +25,12 @@
   * ¿Cuál es el el elemento geomorfológico donde predomina la cobertura boscosa en la unidad territorial ...?
   * ¿Cuál es la metodología más eficiente para hacer un mapa geomorfològico: addon r.geomorphons o cartografía convencional?
 * Emma
-  * Cambios en la vegetación de las áreas protegidas en República Dominicana
+  * ¿Han perdido cobertura arbóreas las áreas protegidas en República Dominicana en el período ... y ...? 
 * María
   * ¿Que me garantiza màs precisiòn al momento de obtener las alturas de una cuenca hidrografica, la obtencion por medio de un Dem o la elaboracion de un Geomorfono?
   ¿Còmo disminuir el tamaño (KB) y el nùmero de celdas de un ràster mediante el uso de R?
 * Wandra
   * ¿?
 * Welifer
-  * Calcular el vecino más próximo en bolsones de pobreza del Distrito Nacional.
-  ¿Cómo representar idoneamente las distancias en un mapa o fotografía?
+  * ¿Es un buen proxy el tipo de vivienda y la distancia horizontal entre éstas para estimar la pobreza en barrios de Santo Domingo?
+  * ¿Existe pobreza ...?
