@@ -32,4 +32,5 @@
 * Wandra
   * ¿?
 * Welifer
-  * ¿?
+  * Calcular el vecino más próximo en bolsones de pobreza del Distrito Nacional.
+  ¿Cómo representar idoneamente las distancias en un mapa o fotografía?
