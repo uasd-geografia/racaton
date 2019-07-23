@@ -22,7 +22,6 @@
 
 * Edwin
   * Determinar el elemento geomorfològico donde predomina la cobertura boscoca en una cuenca hidrogràfica u otra divisiòn territorial.
-  
   Cual es la metodologia mas beneficiosa en cuanto al costo-beneficio a la hora de hacer un mapa geomorfològico (geomorfonos o cartografìa convencional)
 * Emma
   * ¿?
