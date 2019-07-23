@@ -24,7 +24,7 @@
   * Determinar el elemento geomorfològico donde predomina la cobertura boscosa en una cuenca hidrogràfica u otra divisiòn territorial.
   Cual es la metodologia mas beneficiosa en cuanto al costo-beneficio a la hora de hacer un mapa geomorfològico (geomorfonos o cartografìa convencional)
 * Emma
-  * ¿?
+  * Cambios en la vegetación de las áreas protegidas en República Dominicana
 * María
   * ¿Que me garantiza màs precisiòn al momento de obtener las alturas de una cuenca hidrografica, la obtencion por medio de un Dem o la elaboracion de un Geomorfono?
   ¿Còmo disminuir el tamaño (KB) y el nùmero de celdas de un ràster mediante el uso de R?
