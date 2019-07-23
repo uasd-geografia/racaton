@@ -21,8 +21,9 @@
 # Preguntas de investigación a intentar responder:
 
 * Edwin
-  * Determinar el elemento geomorfològico donde predomina la cobertura boscosa en una cuenca hidrogràfica u otra divisiòn territorial.
-  Cual es la metodologia mas beneficiosa en cuanto al costo-beneficio a la hora de hacer un mapa geomorfològico (geomorfonos o cartografìa convencional)
+  * ¿Cuál es el el elemento geomorfológico donde predomina la cobertura boscosa en la cuenca hidrográfica ...?
+  * ¿Cuál es el el elemento geomorfológico donde predomina la cobertura boscosa en la unidad territorial ...?
+  * ¿Cuál es la metodología más eficiente para hacer un mapa geomorfològico: addon r.geomorphons o cartografía convencional?
 * Emma
   * Cambios en la vegetación de las áreas protegidas en República Dominicana
 * María
