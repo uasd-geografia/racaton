@@ -27,7 +27,7 @@
   * ¿?
 * María
   * ¿Que me garantiza màs precisiòn al momento de obtener las alturas de una cuenca hidrografica, la obtencion por medio de un Dem o la elaboracion de un Geomorfono?
-  ¿Còmo Disminuir el tamaño (KB) y el numero de celda de un ràster mediante el uso de R?
+  ¿Còmo disminuir el tamaño (KB) y el nùmero de celdas de un ràster mediante el uso de R?
 * Wandra
   * ¿?
 * Welifer
