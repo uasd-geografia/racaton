@@ -27,7 +27,7 @@
 * Emma
   * ¿Han perdido cobertura arbóreas las áreas protegidas en República Dominicana en el período ... y ...? 
 * María
-  * ¿Existe diferencia entre los parámetros morfométrico de la cuenca del Río Ocoa y la cuenca del Arroyo la Vaca? 
+  * ¿Existe diferencia entre los parámetros morfométricos de las cuencas del río Ocoa y del arroyo la Vaca? 
   * ¿Que me garantiza màs precisiòn al momento de obtener las alturas de una cuenca hidrografica, la obtencion por medio de un Dem o la elaboracion de un Geomorfono?
   * ¿Còmo disminuir el tamaño (KB) y el nùmero de celdas de un ràster mediante el uso de R?
 * Wandra
