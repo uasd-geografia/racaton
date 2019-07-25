@@ -28,8 +28,8 @@
   * ¿Han perdido cobertura arbóreas las áreas protegidas en República Dominicana en el período ... y ...? 
 * María
   * ¿Existe diferencia entre los parámetros morfométricos de las cuencas del río Ocoa y del arroyo la Vaca? 
-  * ¿Que me garantiza màs precisiòn al momento de obtener las alturas de una cuenca hidrografica, la obtencion por medio de un Dem o la elaboracion de un Geomorfono?
-  * ¿Còmo disminuir el tamaño (KB) y el nùmero de celdas de un ràster mediante el uso de R?
+  * ¿Cuál método produce mejor delimitaciónd de las cabeceras de una cuenca hidrografica: obtener alturas máximas desde un MDE o preclasificar el MDE usando r.geomorphons?
+  * ¿Es posible disminuir el tamaño de archivo y el nùmero de celdas de un ráster mediante con R?
 * Wandra
   * ¿?
 * Welifer
