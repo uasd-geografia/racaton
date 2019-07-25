@@ -3,6 +3,8 @@
 ## ¿Existe diferencia entre los parámetros morfométricos de las cuencas del río Ocoa y del arroyo la Vaca?
 
 1. Instalar GRASS GIS 7
+    1. [Linux](https://grass.osgeo.org/download/software/linux/)
+    2. [Windows](https://grass.osgeo.org/download/software/ms-windows/)
 2. Cargar paquetes
 3. Fijar directorio de trabajo
 4. Lectura de fuentes
