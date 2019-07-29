@@ -47,7 +47,7 @@ header-includes:
 
 # Supporting information
 
-##Reproducible script of published paper:
+* Reproducible script of published paper:
 http://www.ccsenet.org/journal/index.php/jgg/article/view/0/39703
 
 ### Set the working directory
