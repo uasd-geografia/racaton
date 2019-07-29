@@ -47,7 +47,8 @@ header-includes:
 
 # Supporting information
 
-##Reproducible script
+##Reproducible script of published paper:
+http://www.ccsenet.org/journal/index.php/jgg/article/view/0/39703
 
 ### Set the working directory
 -   Note: It is strongly recommended to reproduce the script in a clean R session
