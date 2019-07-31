@@ -1,7 +1,7 @@
 library(rgrass7)
 library(raster)
 getwd()
-Setwd()
+setwd()
 library(rgdal)
 dem <- raster("../compartidos/n18_w071_1arc_v3.tif")
 dem[]
