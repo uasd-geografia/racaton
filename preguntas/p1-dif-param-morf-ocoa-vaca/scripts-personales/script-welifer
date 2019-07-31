@@ -1,0 +1,19 @@
+library(rgrass7)
+library(raster)
+getwd()
+setwd()
+library(rgdal)
+dem <- raster("../compartidos/n18_w071_1arc_v3.tif")
+dem[]
+length(dem[])
+#Para buscar el maxmo 
+max(dem[])
+#Para buscar el minimo
+min(dem[])
+summary(dem[])
+dem[dem[]<=0]
+library(sf)
+#Cuenca
+cuencas <- st_read("../compartidos/kml_la_vaca_ocoa.gpkg")
+#crop
+demcuencas <- crop(dem, cuencas)
