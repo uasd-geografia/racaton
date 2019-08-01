@@ -36,3 +36,5 @@ demcuencas <- crop(dem, cuencas)
 
 #Eliminando el DEM de memoria
 rm(dem)
+
+#Iniciar sesión de Grass desde R con rgrass7
