@@ -3,6 +3,7 @@ library(raster)
 library(rgrass7)
 library(rgdal)
 library(sf)
+library(gdalUtils)
 
 #Mostrar directorio de trabajo
 getwd()
