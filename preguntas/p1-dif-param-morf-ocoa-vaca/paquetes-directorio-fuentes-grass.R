@@ -33,9 +33,20 @@ cuencas <- st_read('fuentes/edwin/kml_la_vaca_ocoa.gpkg')
 # cuencas <- st_read('../compartidos/kml_la_vaca_ocoa.gpkg')
 
 #Recortar DEM
-demcuencas <- crop(dem, cuencas)
+# demcuencas <- crop(dem, cuencas) #Comentado, por escasez de recursos, usar paquete gdalUtils
 
-#Eliminando el DEM de memoria
-rm(dem)
+# #Eliminando el DEM de memoria
+# rm(dem)
+
+#Recortar DEM con gdalUtils, sin necesidad de importar a R
+gdalwarp(
+  srcfile = '/home/compartidos/n18_w071_1arc_v3.tif',
+  dstfile = '/home/compartidos/n18_w071_1arc_v3_cuencas.tif',
+  cutline = '/home/compartidos/kml_la_vaca_ocoa.kml',
+  crop_to_cutline = T,
+  overwrite = T)
+demcuencas <- raster('home/compartidos/n18_w071_1arc_v3_cuencas.tif')
+plot(demcuencas)
+rm(demcuencas)
 
 #Iniciar sesión de Grass desde R con rgrass7
