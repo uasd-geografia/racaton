@@ -39,12 +39,13 @@ cuencas <- st_read('fuentes/edwin/kml_la_vaca_ocoa.gpkg')
 # rm(dem)
 
 #Recortar DEM con gdalUtils, sin necesidad de importar a R
-gdalwarp(
-  srcfile = '/home/compartidos/n18_w071_1arc_v3.tif',
-  dstfile = '/home/compartidos/n18_w071_1arc_v3_cuencas.tif',
-  cutline = '/home/compartidos/kml_la_vaca_ocoa.kml',
-  crop_to_cutline = T,
-  overwrite = T)
+# gdalwarp(
+#   srcfile = '/home/compartidos/n18_w071_1arc_v3.tif',
+#   dstfile = '/home/compartidos/n18_w071_1arc_v3_cuencas.tif',
+#   cutline = '/home/compartidos/kml_la_vaca_ocoa.kml',
+#   crop_to_cutline = T,
+#   overwrite = T)
+# Comentado por que el DEM recortado ya se encuentra "compartidos"
 demcuencas <- raster('home/compartidos/n18_w071_1arc_v3_cuencas.tif')
 plot(demcuencas)
 rm(demcuencas)
@@ -52,9 +53,8 @@ rm(demcuencas)
 #Iniciar sesión de Grass desde R con rgrass7
 gisdbase <- 'GRASS'
 loc <- initGRASS(gisBase = "/usr/lib/grass76/", #Locate your lib/grass instalation
-                 home = '/home/jr', 
-                 gisDbase = paste('/home/jr', gisdbase, sep = '/'),
+                 home = getwd(), 
+                 gisDbase = paste(getwd(), gisdbase, sep = '/'),
                  location = 'data',
                  mapset = "PERMANENT",
                  override = TRUE)
-
