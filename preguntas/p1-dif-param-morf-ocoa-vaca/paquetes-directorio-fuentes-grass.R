@@ -46,7 +46,7 @@ cuencas <- st_read('fuentes/edwin/kml_la_vaca_ocoa.gpkg')
 #   crop_to_cutline = T,
 #   overwrite = T)
 # Comentado por que el DEM recortado ya se encuentra "compartidos"
-demcuencas <- raster('home/compartidos/n18_w071_1arc_v3_cuencas.tif')
+demcuencas <- raster('/home/compartidos/n18_w071_1arc_v3_cuencas.tif')
 plot(demcuencas)
 rm(demcuencas)
 
