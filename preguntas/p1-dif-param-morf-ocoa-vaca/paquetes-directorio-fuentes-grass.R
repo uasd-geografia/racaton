@@ -50,3 +50,11 @@ plot(demcuencas)
 rm(demcuencas)
 
 #Iniciar sesión de Grass desde R con rgrass7
+gisdbase <- 'GRASS'
+loc <- initGRASS(gisBase = "/usr/lib/grass76/", #Locate your lib/grass instalation
+                 home = '/home/jr', 
+                 gisDbase = paste('/home/jr', gisdbase, sep = '/'),
+                 location = 'data',
+                 mapset = "PERMANENT",
+                 override = TRUE)
+
