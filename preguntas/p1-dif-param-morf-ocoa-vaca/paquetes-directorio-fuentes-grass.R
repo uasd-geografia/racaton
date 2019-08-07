@@ -48,7 +48,7 @@ cuencas <- st_read('fuentes/edwin/kml_la_vaca_ocoa.gpkg')
 # Comentado por que el DEM recortado ya se encuentra "compartidos"
 demcuencas <- raster('/home/compartidos/n18_w071_1arc_v3_cuencas.tif')
 plot(demcuencas)
-rm(demcuencas)
+rm(demcuencas) #Eliminado de la RAM porque no se usará más en R
 
 #Iniciar sesión de Grass desde R con rgrass7
 gisdbase <- 'GRASS'
